@@ -9,3 +9,11 @@ Avendaño Covarrubias Romero	rvarrubias@gmail.com
 
 Gomes Sánchez Rodrigo Isaac	dravgc21@gmail.com
 
+## Descarga
+<p>Clone el repositorio con:</p>
+    <pre><code>git clone https://github.com/JoseManuelCarrichi/AsistenteVirtualLocal</pre></code>
+
+
+
+<p>Instale las bibliotecas necesarias desde el archivo requirements.txt:</p>
+    <pre><code>pip install -r requirements.txt</pre></code>
